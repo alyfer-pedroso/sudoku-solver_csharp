@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynamicSudoku")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29b673aebc81f398534daca3906cc1cec77c4018")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynamicSudoku")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynamicSudoku")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

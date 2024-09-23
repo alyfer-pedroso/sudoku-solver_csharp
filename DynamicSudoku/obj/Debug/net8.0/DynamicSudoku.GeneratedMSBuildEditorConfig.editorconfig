@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DynamicSudoku
-build_property.ProjectDir = C:\Users\alyfe\source\repos\DynamicSudoku\DynamicSudoku\
+build_property.ProjectDir = C:\Users\alyfe\Source\Repos\alyfer-pedroso\sudoku-solver_csharp\DynamicSudoku\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
