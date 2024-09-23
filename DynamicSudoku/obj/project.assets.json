@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alyfe\\source\\repos\\DynamicSudoku\\DynamicSudoku\\DynamicSudoku.csproj",
+      "projectUniqueName": "C:\\Users\\alyfe\\Source\\Repos\\alyfer-pedroso\\sudoku-solver_csharp\\DynamicSudoku\\DynamicSudoku.csproj",
       "projectName": "DynamicSudoku",
-      "projectPath": "C:\\Users\\alyfe\\source\\repos\\DynamicSudoku\\DynamicSudoku\\DynamicSudoku.csproj",
+      "projectPath": "C:\\Users\\alyfe\\Source\\Repos\\alyfer-pedroso\\sudoku-solver_csharp\\DynamicSudoku\\DynamicSudoku.csproj",
       "packagesPath": "C:\\Users\\alyfe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alyfe\\source\\repos\\DynamicSudoku\\DynamicSudoku\\obj\\",
+      "outputPath": "C:\\Users\\alyfe\\Source\\Repos\\alyfer-pedroso\\sudoku-solver_csharp\\DynamicSudoku\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alyfe\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TlflMwQTvEc=",
+  "dgSpecHash": "aSI7yxJi2ZM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alyfe\\source\\repos\\DynamicSudoku\\DynamicSudoku\\DynamicSudoku.csproj",
+  "projectFilePath": "C:\\Users\\alyfe\\Source\\Repos\\alyfer-pedroso\\sudoku-solver_csharp\\DynamicSudoku\\DynamicSudoku.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
